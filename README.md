@@ -19,6 +19,7 @@ One folder per mod, named exactly like the mod's GitHub repository:
 
 ```
 MC-Images/
+├── MC-ChiseledBlocks/     Chiseled Blocks (Minecraft mod) and its Create addon
 ├── MC-MostLight/          MostLight (Minecraft mod)
 ├── MC-MostDecoration/     MostDecoration (Minecraft mod), empty until its page is made
 └── MC-Nokh-Frame/         Nokh Frame (Minecraft mod)
@@ -114,6 +115,7 @@ Un dossier par mod, nommé exactement comme le dépôt GitHub du mod :
 
 ```
 MC-Images/
+├── MC-ChiseledBlocks/     Chiseled Blocks (mod Minecraft) et son extension Create
 ├── MC-MostLight/          MostLight (mod Minecraft)
 ├── MC-MostDecoration/     MostDecoration (mod Minecraft), vide en attendant sa page
 └── MC-Nokh-Frame/         Nokh Frame (mod Minecraft)
