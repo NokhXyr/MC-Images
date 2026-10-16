@@ -29,7 +29,7 @@ Inside a mod folder, files keep the layout they have in the mod's `images/` fold
 | Path | Content |
 |---|---|
 | `hero.gif` | Main banner at the top of the page |
-| `badge-*.png` | Badges: Minecraft version, loader, side, source |
+| `badge-*.png` | Badges: issues link, Minecraft version, loader, side, required mods |
 | `lang-*.gif`, `title-*-<lang>.gif`, `divider.gif` | Language labels, section titles and separator |
 | `*.gif` (others) | Animated feature demonstrations |
 | `icons/` | Small icons in front of each feature line |
@@ -125,7 +125,7 @@ Dans le dossier d'un mod, les fichiers gardent l'organisation qu'ils ont dans le
 | Chemin | Contenu |
 |---|---|
 | `hero.gif` | Bannière principale en haut de la page |
-| `badge-*.png` | Badges : version de Minecraft, loader, côté, source |
+| `badge-*.png` | Badges : lien vers les tickets, version de Minecraft, loader, côté, mods requis |
 | `lang-*.gif`, `title-*-<langue>.gif`, `divider.gif` | Étiquettes de langue, titres de section et séparateur |
 | `*.gif` (autres) | Démonstrations animées des fonctionnalités |
 | `icons/` | Petites icônes devant chaque ligne de fonctionnalité |
