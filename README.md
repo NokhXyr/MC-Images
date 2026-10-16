@@ -15,11 +15,13 @@ The source code stays where it is; only the published images live here.
 
 ## Layout
 
-One folder per mod, named exactly like the mod's GitHub repository:
+One folder per mod, named exactly like the mod's GitHub repository (an addon kept in its mod's
+repository gets its own folder, named after the repository with the addon's suffix):
 
 ```
 MC-Images/
-├── MC-ChiseledBlocks/     Chiseled Blocks (Minecraft mod) and its Create addon
+├── MC-ChiseledBlocks/     Chiseled Blocks (Minecraft mod)
+├── MC-ChiseledBlocks-Create/  Chiseled Blocks: Create (addon of Chiseled Blocks)
 ├── MC-MostLight/          MostLight (Minecraft mod)
 ├── MC-MostDecoration/     MostDecoration (Minecraft mod), empty until its page is made
 └── MC-Nokh-Frame/         Nokh Frame (Minecraft mod)
@@ -111,11 +113,13 @@ source reste là où il est ; seules les images publiées vivent ici.
 
 ## Organisation
 
-Un dossier par mod, nommé exactement comme le dépôt GitHub du mod :
+Un dossier par mod, nommé exactement comme le dépôt GitHub du mod (une extension gardée dans le
+dépôt de son mod a son propre dossier, nommé d'après le dépôt avec le suffixe de l'extension) :
 
 ```
 MC-Images/
-├── MC-ChiseledBlocks/     Chiseled Blocks (mod Minecraft) et son extension Create
+├── MC-ChiseledBlocks/     Chiseled Blocks (mod Minecraft)
+├── MC-ChiseledBlocks-Create/  Chiseled Blocks: Create (extension de Chiseled Blocks)
 ├── MC-MostLight/          MostLight (mod Minecraft)
 ├── MC-MostDecoration/     MostDecoration (mod Minecraft), vide en attendant sa page
 └── MC-Nokh-Frame/         Nokh Frame (mod Minecraft)
