@@ -37,6 +37,7 @@ Inside a mod folder, files keep the layout they have in the mod's `images/` fold
 | `*.gif` (others) | Animated feature demonstrations |
 | `icons/` | Small icons in front of each feature line |
 | `screenshots/` | Full in-game screenshots |
+| `gallery/` | The CurseForge and Modrinth gallery, numbered in upload order |
 
 ## Using an image
 
@@ -136,6 +137,7 @@ Dans le dossier d'un mod, les fichiers gardent l'organisation qu'ils ont dans le
 | `*.gif` (autres) | Démonstrations animées des fonctionnalités |
 | `icons/` | Petites icônes devant chaque ligne de fonctionnalité |
 | `screenshots/` | Captures d'écran complètes en jeu |
+| `gallery/` | La galerie CurseForge et Modrinth, numérotée dans l'ordre d'envoi |
 
 ## Utiliser une image
 
